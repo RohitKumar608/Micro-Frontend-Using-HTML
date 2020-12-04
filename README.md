@@ -4,6 +4,6 @@ We are combinig both the application using container and for communication betwe
 For the configuration of our app we are using here webpack.
 # `For starting the server`
 1. Go to the respective module do `npm install`.
-2. Starting server run `npm start`.<br>
-3.We want to run container we have to run product and cart app as well.
+2. Starting server run `npm start`.
+3. We want to run container we have to run product and cart app as well.
 4. Container is running on port 8080, product app running on port 8081, and cart running on port 8082.
