@@ -1,6 +1,6 @@
 # Micro-Frontend-Using-HTML
 Two projects are running on two different ports and these both project are standalone application.
-We are combinig both the application using container and for communication between these app and container we are using `ModuleFederationPlugin` webpack plugin.
+We are combining both the application using container and for communication between these app and container we are using `ModuleFederationPlugin` webpack plugin.
 For the configuration of our app we are using here webpack.
 # `For starting the server`
 1. Go to the respective module do `npm install`.
